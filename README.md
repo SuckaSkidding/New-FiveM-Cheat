@@ -1,78 +1,9 @@
-# New-FiveM-Cheat
-
 🔥 THE BEST FIVEM CHEAT AVAILABLE RIGHT NOW 🔥
 This cheat is an absolute powerhouse, packed with everything you need to dominate PvP, troll players, explore freely, or just have unlimited fun on FiveM.
 
-🎯 COMBAT & PVP FEATURES
-Precise Aimbot with Bone Selection
-
-Triggerbot for instant reaction
-
-Damage Modifier: One Tap Kill, Increased Damage
-
-Godmode toggle for invincibility
-
-Anti-Aim & Desync protection options
-
-Noclip / Fly Mode
-
-Super Jump & Speed Boost
-
-Weapon Mods: No Recoil, No Spread, Infinite Ammo
-
-Rapid Fire & Auto Reload
-
-Silent Aim & Crosshair Assist
-
-👁️ VISUALS (ESP)
-Player ESP: Boxes, Names, Distance
-
-Vehicle ESP: Show all nearby vehicles
-
-NPC ESP: Highlight AI and Civilians
-
-Custom ESP Colors for full personalization
-
-Loot & Item ESP: Spot valuable items easily
-
-Admin ESP Detection: See online staff/admins
-
-Spectator Detection: Know when someone is watching
-
-🛠️ TROLLING & FUN TOOLS
-Teleport Gun: Shoot to teleport anywhere
-
-Object Spawner: Ramps, vehicles, props, and more
-
-Cage Players with props
-
-Crash Players (Crash Loop, Vehicle Spam)
-
-Freeze / Ragdoll others
-
-Force Dance, attach props, and visual pranks
-
-🚗 VEHICLE MODS
-Spawn Any Vehicle
-
-Max Upgrades Instantly
-
-Vehicle Godmode
-
-No Clip Driving
-
-Flying Cars / Gravity Control
-
-Custom Speed & Handling Tweaks
-
-📡 UTILITY & MOVEMENT
-Full Teleport Menu: Waypoint, Saved Spots, Player List
-
-Event Executor: Run custom scripts
-
-Task Skipping: Instant actions
-
-Anti-AFK & Bypass Restrictions
+https://keyser.gg
+https://www.youtube.com/watch?v=EcG7DF_QwRk&ab_channel=KeyserFiveM
+![](https://cdn.discordapp.com/attachments/1392898222820819035/1393053612653150208/image.png?ex=6871c5c6&is=68707446&hm=d45f2b01d71a2c52325e10ee245a197c1e60e75fa8fd9337b8ab1824a840b92f&)
 
 Quick Heal / Full Armor
 
